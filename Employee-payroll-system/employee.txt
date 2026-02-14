@@ -1,0 +1,22 @@
+101 Khushi manager 80000
+320 Sneha Developer 67000
+104 Janvi Tester 70000
+101 Rahul Developer 45000
+102 Anu Manager 80000
+103 Kiran Tester 35000
+110 Kavya HR 42000
+111 Suresh Developer 48000
+112 Meena Tester 36000
+104 Sneha Developer 60000
+105 Amit Manager 90000
+106 Pooja HR 40000
+107 Rohan Tester 38000
+108 Neha Developer 55000
+109 Arjun Manager 85000
+113 Vikas Manager 92000
+114 Nisha Developer 62000
+115 Mohit HR 41000
+116 Aarti Tester 39000
+117 Sanjay Developer 70000
+
+
